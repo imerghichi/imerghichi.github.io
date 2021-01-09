@@ -832,7 +832,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .shot-item img {
-  width: 100%;
+  width: 280px;
+  height: 200px;
 }
 
 .shot-item .overlay {
